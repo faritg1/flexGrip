@@ -38,7 +38,7 @@ img{
     grid-template-columns: 200px 1fr;
     grid-template-rows: 1fr 5fr;
     grid-gap: 10px;
-    border: 1px solid black;
+    margin: 10px;
 }
 
 .contenedorPrimario{
@@ -55,7 +55,7 @@ img{
     grid-column: 2/2;
 }
 
-.contenedorTercero{
+.contenedorTercer{
     background-color: rgb(255, 154, 154);
     padding: 1rem;
     grid-row: 2/2;
