@@ -15,7 +15,7 @@ body{
 .contenedorSecundario{
     display: flex;
     justify-content: space-between;
-    background-color: red;
+    background-color: rgb(21, 43, 41);
     padding: 10px;
 }
 
@@ -33,6 +33,7 @@ body{
 
 a{
     text-decoration: none;
+    color: rgb(226, 43, 144);
 }
 
 
